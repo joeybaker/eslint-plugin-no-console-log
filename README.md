@@ -4,12 +4,13 @@ An eslint plugin to warn on usage of `console.log`, unlike the built-in rule, th
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Install](#install)
-- [Usage](#usage)
-- [Methods](#methods)
-- [Events](#events)
+- [Configuration](#configuration)
+- [Rule Details](#rule-details)
+- [When Not To Use It](#when-not-to-use-it)
+- [Further Reading](#further-reading)
 - [Tests](#tests)
 - [Developing](#developing)
   - [Requirements](#requirements)
