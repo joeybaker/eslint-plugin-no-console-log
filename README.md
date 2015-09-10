@@ -98,7 +98,6 @@ _NOTE: you might need to `sudo ln -s /usr/local/bin/node /usr/bin/node` to ensur
 
 Artistic 2.0 © [Joey Baker](http://byjoeybaker.com) and contributors. A copy of the license can be found in the file `LICENSE`.
 
-
 [npm-url]: https://npmjs.org/package/eslint-plugin-no-console-log
 [npm-image]: https://badge.fury.io/js/eslint-plugin-no-console-log.svg
 [travis-url]: https://travis-ci.org/joeybaker/eslint-plugin-no-console-log
