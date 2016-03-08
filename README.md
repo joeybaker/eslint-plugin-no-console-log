@@ -1,6 +1,13 @@
+# DEPRECATED. This is now built-in to eslint 2.0
+
+```json
+no-console: [2, { allow: ["warn", "error"] }]
+```
+
 # eslint-plugin-no-console-log [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-url]][daviddm-image] [![Build Status][travis-image]][travis-url]
 
-An eslint plugin to warn on usage of `console.log`, unlike the built-in rule, this allows other `console` methods.
+
+An eslint plugin to warn on usage of `console.log`.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
